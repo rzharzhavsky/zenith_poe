@@ -7,7 +7,6 @@ import Phases from "./components/Phases";
 import Location from "./components/Location";
 import ProductLine from "./components/ProductLine";
 import GanttChart from "./components/GanttChart";
-import CostProfit from "./components/CostProfit";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import type { Phase } from "./data/tasks";
@@ -41,8 +40,6 @@ export default function App() {
           highlightedPhase={highlightedPhase}
           onClearHighlight={() => setHighlightedPhase(null)}
         />
-        <Hairline />
-        <CostProfit />
         <Hairline />
         <Contact />
       </main>

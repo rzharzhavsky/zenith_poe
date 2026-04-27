@@ -11,7 +11,6 @@ const links = [
   { id: "location", label: "Location" },
   { id: "products", label: "Products" },
   { id: "timeline", label: "Timeline" },
-  { id: "cost", label: "Cost" },
   { id: "contact", label: "Contact" },
 ];
 
