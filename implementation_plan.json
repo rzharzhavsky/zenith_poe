@@ -1,0 +1,282 @@
+{
+  "project": "Barber Shop Launch",
+  "year": 2025,
+  "phases": [
+    {
+      "name": "Planning",
+      "tasks": [
+        {
+          "id": "plan-01",
+          "name": "Register as an LLC",
+          "start_date": "2025-01-02",
+          "end_date": "2025-01-13",
+          "duration_days": 11,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-02",
+          "name": "Open Business bank account",
+          "start_date": "2025-01-14",
+          "end_date": "2025-01-15",
+          "duration_days": 1,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-03",
+          "name": "Secure capital/loans",
+          "start_date": "2025-01-15",
+          "end_date": "2025-02-05",
+          "duration_days": 21,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-04",
+          "name": "Find a location",
+          "start_date": "2025-02-06",
+          "end_date": "2025-02-10",
+          "duration_days": 4,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-05",
+          "name": "Negotiate and sign a lease",
+          "start_date": "2025-02-10",
+          "end_date": "2025-02-17",
+          "duration_days": 7,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-06",
+          "name": "Brand identity & make logo",
+          "start_date": "2025-02-17",
+          "end_date": "2025-03-03",
+          "duration_days": 14,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-07",
+          "name": "Create website & social media",
+          "start_date": "2025-02-17",
+          "end_date": "2025-03-03",
+          "duration_days": 14,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-08",
+          "name": "Acquire an Employer Identification Number",
+          "start_date": "2025-02-18",
+          "end_date": "2025-03-14",
+          "duration_days": 24,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-09",
+          "name": "Acquire a Barber Shop Owner's License",
+          "start_date": "2025-02-18",
+          "end_date": "2025-03-14",
+          "duration_days": 24,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-10",
+          "name": "Acquire Barber Shop Permits for the location",
+          "start_date": "2025-02-18",
+          "end_date": "2025-03-14",
+          "duration_days": 24,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-11",
+          "name": "Acquire a Certificate of Occupancy",
+          "start_date": "2025-02-19",
+          "end_date": "2025-03-17",
+          "duration_days": 26,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-12",
+          "name": "Acquire a Certificate of Authority",
+          "start_date": "2025-02-19",
+          "end_date": "2025-03-17",
+          "duration_days": 26,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-13",
+          "name": "Acquire an Appearance Enhancement Business License",
+          "start_date": "2025-02-19",
+          "end_date": "2025-03-17",
+          "duration_days": 26,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-14",
+          "name": "Acquire a Business Sign Permit",
+          "start_date": "2025-02-20",
+          "end_date": "2025-03-18",
+          "duration_days": 26,
+          "owner": "Name"
+        },
+        {
+          "id": "plan-15",
+          "name": "Acquire a Canopy Permit",
+          "start_date": "2025-02-20",
+          "end_date": "2025-03-18",
+          "duration_days": 26,
+          "owner": "Name"
+        }
+      ]
+    },
+    {
+      "name": "Renovation",
+      "tasks": [
+        {
+          "id": "reno-01",
+          "name": "Interior Design & layout",
+          "start_date": "2025-02-10",
+          "end_date": "2025-02-21",
+          "duration_days": 11,
+          "owner": "Name"
+        },
+        {
+          "id": "reno-02",
+          "name": "Order furniture and decoration",
+          "start_date": "2025-02-24",
+          "end_date": "2025-03-14",
+          "duration_days": 18,
+          "owner": "Name"
+        },
+        {
+          "id": "reno-03",
+          "name": "Renovation",
+          "start_date": "2025-03-17",
+          "end_date": "2025-04-18",
+          "duration_days": 32,
+          "owner": "Name"
+        },
+        {
+          "id": "reno-04",
+          "name": "Electrical and plumbing",
+          "start_date": "2025-03-17",
+          "end_date": "2025-04-18",
+          "duration_days": 32,
+          "owner": "Name"
+        },
+        {
+          "id": "reno-05",
+          "name": "Pass inspections",
+          "start_date": "2025-04-21",
+          "end_date": "2025-04-25",
+          "duration_days": 4,
+          "owner": "Name"
+        },
+        {
+          "id": "reno-06",
+          "name": "Create list of necessary tools and equipment for shop",
+          "start_date": "2025-04-28",
+          "end_date": "2025-04-29",
+          "duration_days": 1,
+          "owner": "Name"
+        }
+      ]
+    },
+    {
+      "name": "Execution",
+      "tasks": [
+        {
+          "id": "exec-01",
+          "name": "Write job postings",
+          "start_date": "2025-04-28",
+          "end_date": "2025-04-29",
+          "duration_days": 1,
+          "owner": "Name"
+        },
+        {
+          "id": "exec-02",
+          "name": "Design and Manufacture Haircare product line",
+          "start_date": "2025-04-30",
+          "end_date": "2025-06-06",
+          "duration_days": 37,
+          "owner": "Name"
+        },
+        {
+          "id": "exec-03",
+          "name": "Order Materials",
+          "start_date": "2025-04-30",
+          "end_date": "2025-05-02",
+          "duration_days": 2,
+          "owner": "Name"
+        },
+        {
+          "id": "exec-04",
+          "name": "Receive Materials",
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-23",
+          "duration_days": 21,
+          "owner": "Name"
+        },
+        {
+          "id": "exec-05",
+          "name": "Interview and hire barbers",
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-30",
+          "duration_days": 18,
+          "owner": "Name"
+        },
+        {
+          "id": "exec-06",
+          "name": "Activate payment system and add the items",
+          "start_date": "2025-05-23",
+          "end_date": "2025-05-24",
+          "duration_days": 1,
+          "owner": "Name"
+        },
+        {
+          "id": "exec-07",
+          "name": "Train Employees",
+          "start_date": "2025-06-02",
+          "end_date": "2025-06-06",
+          "duration_days": 4,
+          "owner": "Name"
+        }
+      ]
+    },
+    {
+      "name": "Marketing & Launch",
+      "tasks": [
+        {
+          "id": "mkt-01",
+          "name": "Post on social media and spread the word locally",
+          "start_date": "2025-06-02",
+          "end_date": "2025-06-04",
+          "duration_days": 2,
+          "owner": "Name"
+        },
+        {
+          "id": "mkt-02",
+          "name": "Advertise brand line (pay influencers)",
+          "start_date": "2025-06-04",
+          "end_date": "2025-06-06",
+          "duration_days": 2,
+          "owner": "Name"
+        },
+        {
+          "id": "mkt-03",
+          "name": "Soft opening and see how things go",
+          "start_date": "2025-06-04",
+          "end_date": "2025-06-06",
+          "duration_days": 2,
+          "owner": "Name"
+        },
+        {
+          "id": "mkt-04",
+          "name": "Grand opening",
+          "start_date": "2025-06-07",
+          "end_date": "2025-06-08",
+          "duration_days": 1,
+          "owner": "Name"
+        }
+      ]
+    }
+  ]
+}
