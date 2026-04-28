@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Mail, Globe, MapPin } from "lucide-react";
+import { Mail, MapPin } from "lucide-react";
 
 export default function Contact() {
   return (
@@ -25,15 +25,11 @@ export default function Contact() {
             <br />
             about Zenith.
           </h2>
-          <p className="mt-10 text-inkSoft/80 leading-[1.7] max-w-lg text-lg">
-            Proposals, partnerships, or just curious about the plan? We read
-            every note and reply within 48 hours.
-          </p>
         </div>
 
         <div className="md:col-span-5 flex flex-col gap-4">
           <a
-            href="mailto:Zenith@gmail.com"
+            href="mailto:ronz@s.ccsd.edu"
             className="group flex items-start gap-5 p-7 md:p-8 border border-line/60 hover:border-champagne/60 hover:bg-surface/60 transition-all"
           >
             <Mail
@@ -46,28 +42,7 @@ export default function Contact() {
                 Email
               </div>
               <div className="font-display font-light text-2xl md:text-3xl tracking-tightest mt-1.5">
-                Zenith@gmail.com
-              </div>
-            </div>
-          </a>
-
-          <a
-            href="https://ZenithSalon.com"
-            target="_blank"
-            rel="noreferrer"
-            className="group flex items-start gap-5 p-7 md:p-8 border border-line/60 hover:border-champagne/60 hover:bg-surface/60 transition-all"
-          >
-            <Globe
-              size={22}
-              strokeWidth={1.1}
-              className="text-champagne mt-1 group-hover:-translate-y-0.5 transition-transform"
-            />
-            <div>
-              <div className="text-[10px] uppercase tracking-smallcaps text-muted">
-                Web
-              </div>
-              <div className="font-display font-light text-2xl md:text-3xl tracking-tightest mt-1.5">
-                ZenithSalon.com
+                ronz@s.ccsd.edu
               </div>
             </div>
           </a>

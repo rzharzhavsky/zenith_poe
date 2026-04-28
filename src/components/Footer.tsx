@@ -14,10 +14,10 @@ export default function Footer() {
             Gantt
           </a>
           <a
-            href="mailto:Zenith@gmail.com"
+            href="mailto:ronz@s.ccsd.edu"
             className="hover:text-champagne transition-colors"
           >
-            Zenith@gmail.com
+            ronz@s.ccsd.edu
           </a>
         </div>
       </div>
