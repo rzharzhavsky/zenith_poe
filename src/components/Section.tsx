@@ -37,12 +37,9 @@ export default function Section({
         >
           <div className="md:col-span-4 flex md:justify-start items-start">
             {eyebrow && (
-              <div className="flex items-center gap-3">
-                <span className="w-8 h-px bg-champagne/60" />
-                <span className="text-champagne text-[10px] uppercase tracking-smallcaps">
-                  {eyebrow}
-                </span>
-              </div>
+              <span className="text-champagne text-[10px] uppercase tracking-smallcaps">
+                {eyebrow}
+              </span>
             )}
           </div>
           <div className="md:col-span-8 md:col-start-5">

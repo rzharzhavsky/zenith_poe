@@ -15,8 +15,7 @@ export default function Contact() {
         className="grid grid-cols-1 md:grid-cols-12 gap-10 md:gap-16"
       >
         <div className="md:col-span-7">
-          <div className="flex items-center gap-3 mb-8">
-            <span className="w-10 h-px bg-champagne/70" />
+          <div className="mb-8">
             <span className="text-champagne text-[10px] uppercase tracking-smallcaps">
               Further Questions
             </span>

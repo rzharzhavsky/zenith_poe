@@ -24,9 +24,8 @@ export default function Hero() {
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, ease: "easeOut" }}
-            className="flex items-center gap-4 mb-10"
+            className="mb-10"
           >
-            <span className="w-10 h-px bg-champagne/70" />
             <span className="text-champagne text-[10px] uppercase tracking-smallcaps">
               A Salon Proposal · 2026
             </span>
@@ -64,9 +63,8 @@ export default function Hero() {
             </a>
             <a
               href="#timeline"
-              className="inline-flex items-center gap-3 text-[11px] uppercase tracking-smallcaps text-inkSoft hover:text-champagne transition-colors"
+              className="inline-flex items-center text-[11px] uppercase tracking-smallcaps text-inkSoft hover:text-champagne transition-colors"
             >
-              <span className="w-6 h-px bg-champagne/60" />
               Jump to the Gantt
             </a>
           </motion.div>
