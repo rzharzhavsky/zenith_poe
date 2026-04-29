@@ -20,17 +20,6 @@ export default function Hero() {
 
       <div className="relative z-10 mx-auto max-w-content px-6 md:px-12 w-full grid grid-cols-1 md:grid-cols-12 gap-12 items-center">
         <div className="md:col-span-9 md:col-start-2">
-          <motion.div
-            initial={{ opacity: 0, y: 8 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7, ease: "easeOut" }}
-            className="mb-10"
-          >
-            <span className="text-champagne text-[10px] uppercase tracking-smallcaps">
-              A Salon Proposal · 2026
-            </span>
-          </motion.div>
-
           <motion.h1
             initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
